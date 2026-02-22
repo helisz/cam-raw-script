@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# RAW files (optional - uncomment if you want to ignore RAW files)
+# *.3fr
+# *.arw
+# *.cr2
+# *.dng
+# *.erf
+# *.kdc
+# *.mef
+# *.mos
+# *.mrw
+# *.nrw
+# *.orf
+# *.pef
+# *.ptx
+# *.pxn
+# *.r3d
+# *.raw
+# *.raf
+# *.rw2
+# *.rwl
+# *.srf
+# *.srw
+# *.x3f
